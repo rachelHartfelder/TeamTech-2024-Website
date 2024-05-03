@@ -1,0 +1,1 @@
+2024/04/23 13:25:42 [error] 74090#0: *7714 directory index of "/Users/mattkim/Local Sites/team-tech/app/public/wp-content/cache/" is forbidden, client: 127.0.0.1, server: , request: "GET /wp-content/cache/ HTTP/1.0", host: "team-tech.local"
